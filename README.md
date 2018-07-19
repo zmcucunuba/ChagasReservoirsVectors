@@ -1,8 +1,8 @@
-# chagas_reservoirs_vectors
+# Trypanosoma cruzi infection rates in animal reservoirs and vectors in Colombia
 
 This repository accompanies the paper 
 
-Rodriguez-Mongui E, Cantillo-Barraza O, Prieto F, Cucunubaá ZM. Heterogeneity of Trypanosoma cruzi infection rates in animal reservoirs and vectors in Colombia: a systematic review and meta-analisys
+Rodriguez-Mongui E, Cantillo-Barraza O, Prieto F, Cucunubá ZM. Heterogeneity of Trypanosoma cruzi infection rates in animal reservoirs and vectors in Colombia: a systematic review and meta-analisys
 Submitted for publication (July 2018)
 
 Content:
